@@ -24,3 +24,10 @@
 ### van_gogh_starry_night
 <img src="https://thumbs.gfycat.com/EmptyInfamousEquine-size_restricted.gif" width="520">
 <img src="https://image.ibb.co/gioZrc/vangoghstarrynight.jpg" width="520">
+
+<hr>
+
+##### The Artist  
+Briana Vecchione is a soon-to-be-PhD student, computational researcher, and new media artist with roots in Southern California and NYC.   
+[brianavecchione.com](https://brianavecchione.com/)  
+[@brianavecchione](https://twitter.com/brianavecchione)  
