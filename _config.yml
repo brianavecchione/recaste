@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: recaste
-description: Recaste explores alternative forms of visual representation by converting celebrated works of art into binary visualizations. The artist uses a technical analysis tool that generates statistical representations of data by visualizing correlations between byte sequences. All 2-byte sequences are compared to their relative frequency and treated as a pair of coordinates to be drawn on a surface. Recaste is a series of layered diagrams, which splits each file into 256 equal parts and plots them 3-dimensionally.
+description: Recaste explores alternative forms of visual representation by converting celebrated works of art into binary visualizations. The artist uses a technical analysis tool that generates statistical representations of data by visualizing correlations between byte sequences. All 2-byte sequences are compared to their relative frequency and treated as a pair of coordinates to be drawn on a surface. Recaste is a series of layered diagrams, splitting each file into 256 equal parts and plotting them 3-dimensionally. 
 logo: "recaste/IMG_3107.jpg"
