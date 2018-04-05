@@ -1,7 +1,7 @@
 
 ### botticelli_birth_of_venus
 ![o](https://thumbs.gfycat.com/NaughtyColorfulGalapagosdove-size_restricted.gif)
-![o](https://image.ibb.co/hBmLWc/botticelli.jpg)
+<img src="https://image.ibb.co/hBmLWc/botticelli.jpg" width="520">
 
 ### da_vinci_vitruvian_man
 ![o](https://thumbs.gfycat.com/DirtyDisloyalArmedcrab-size_restricted.gif)
